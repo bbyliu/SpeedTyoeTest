@@ -1,0 +1,15 @@
+/Users/liuliu/Projects/TestTapTap/TestTapTap/obj/Debug/net6.0/TestTapTap.csproj.AssemblyReference.cache
+/Users/liuliu/Projects/TestTapTap/TestTapTap/obj/Debug/net6.0/TestTapTap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liuliu/Projects/TestTapTap/TestTapTap/obj/Debug/net6.0/TestTapTap.AssemblyInfoInputs.cache
+/Users/liuliu/Projects/TestTapTap/TestTapTap/obj/Debug/net6.0/TestTapTap.AssemblyInfo.cs
+/Users/liuliu/Projects/TestTapTap/TestTapTap/obj/Debug/net6.0/TestTapTap.csproj.CoreCompileInputs.cache
+/Users/liuliu/Projects/TestTapTap/TestTapTap/bin/Debug/net6.0/TestTapTap
+/Users/liuliu/Projects/TestTapTap/TestTapTap/bin/Debug/net6.0/TestTapTap.deps.json
+/Users/liuliu/Projects/TestTapTap/TestTapTap/bin/Debug/net6.0/TestTapTap.runtimeconfig.json
+/Users/liuliu/Projects/TestTapTap/TestTapTap/bin/Debug/net6.0/TestTapTap.dll
+/Users/liuliu/Projects/TestTapTap/TestTapTap/bin/Debug/net6.0/TestTapTap.pdb
+/Users/liuliu/Projects/TestTapTap/TestTapTap/obj/Debug/net6.0/TestTapTap.dll
+/Users/liuliu/Projects/TestTapTap/TestTapTap/obj/Debug/net6.0/refint/TestTapTap.dll
+/Users/liuliu/Projects/TestTapTap/TestTapTap/obj/Debug/net6.0/TestTapTap.pdb
+/Users/liuliu/Projects/TestTapTap/TestTapTap/obj/Debug/net6.0/TestTapTap.genruntimeconfig.cache
+/Users/liuliu/Projects/TestTapTap/TestTapTap/obj/Debug/net6.0/ref/TestTapTap.dll
